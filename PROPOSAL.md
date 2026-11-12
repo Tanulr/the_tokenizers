@@ -1,6 +1,6 @@
 # [Project name]
 
-Team name: [name]
+Team name: the_tokenizers
 
 ## 1. Problem
 [Who has it. What they do today. What it costs them.]
